@@ -15,6 +15,11 @@ A fully functional **Android application** that performs **on-device image class
 https://github.com/Akshaykomar890/ImageDetectionApp/blob/master/WhatsApp%20Video%202025-02-14%20at%203.31.41%20PM.mp4
 
 
+#MVVM
+![diagram-export-14-02-2025-15_56_47](https://github.com/user-attachments/assets/0e14bd9f-06cf-40b8-bfa4-4b32768f17fb)
+
+
+
 ## Features
 
 Detect objects in images using a **TensorFlow Lite** model  
