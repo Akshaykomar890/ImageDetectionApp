@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176128304951",
+    "project_id": "imagedetectionapp-31886",
+    "storage_bucket": "imagedetectionapp-31886.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176128304951:android:9ab88925940ba18d3ddcb2",
+        "android_client_info": {
+          "package_name": "com.example.imagedetectionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnuL1TpouLj1ZeVHx7hBKSMM96ex3Uoyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
