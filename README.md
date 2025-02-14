@@ -11,6 +11,9 @@ A fully functional **Android application** that performs **on-device image class
   <img src="https://github.com/user-attachments/assets/478c1f25-6e93-42c1-8063-50c6ac544a07" width="200"/>
 </p>
 
+## Video Demo
+https://github.com/Akshaykomar890/ImageDetectionApp/blob/master/WhatsApp%20Video%202025-02-14%20at%203.31.41%20PM.mp4
+
 
 ## Features
 
@@ -20,6 +23,17 @@ Smooth **navigation with animations**
 Logs **detection time** with **Firebase Analytics**  
 Stores detection history using **Room Database**  
 Uses **Jetpack Compose** for UI  
+
+## Tech Stack Used  
+
+🔹 **Programming Language:** Kotlin  
+🔹 **Architecture Pattern:** MVVM (Model-View-ViewModel)  
+🔹 **Asynchronous Processing:** Coroutines & Flows  
+🔹 **Dependency Injection:** Dagger-Hilt  
+🔹 **Database:** Room Database with Kotlin Flows  
+🔹 **UI Framework:** Jetpack Compose  
+🔹 **Design System:** Material 3  
+🔹 **Machine Learning Model:** TensorFlow Lite 
 
 ---
 
